@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/21 21:26:16.000.510,=C:\Users\Luciano Cruz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 21:40:36.000.321,D:\Projetos\GitDelphi\U_CAD_CLIENTE.dfm=C:\Users\Luciano Cruz\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/21 21:40:36.000.321,D:\Projetos\GitDelphi\U_CAD_CLIENTE.pas=C:\Users\Luciano Cruz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 21:40:53.000.682,D:\Projetos\GitDelphi\CadastroCliente.dproj=C:\Users\Luciano Cruz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/23 16:23:12.000.165,=D:\Projetos\GitDelphi\U_EMAIL.pas</Transaction>
+    <Transaction>2022/06/23 16:25:53.000.809,=D:\Projetos\GitDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/06/23 16:26:07.000.629,D:\Projetos\GitDelphi\U_EMAIL.pas=</Transaction>
+    <Transaction>2022/06/23 16:26:10.000.951,D:\Projetos\GitDelphi\Unit1.pas=D:\Projetos\GitDelphi\U_EMAIL.pas</Transaction>
+  </Transactions>
+</BorlandProject>
